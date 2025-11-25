@@ -1,0 +1,5 @@
+{
+  "name": "Gemini 2048 AI",
+  "description": "A classic 2048 game featuring a high-performance local AI solver for auto-play and a Gemini-powered strategic coach.",
+  "requestFramePermissions": []
+}
